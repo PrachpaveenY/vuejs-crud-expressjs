@@ -1,28 +1,17 @@
-# vuejs-crud-expressjs
+# vuejs-nodejs-crud-teach
 - View my project website = https://prachpaveeny.github.io/vuejs-crud-expressjs/
 - Project : Vue.js-CRUD-Express.js
-- Tools = Vue.js, Express.js, MongoDB
+- Tools = Node.js(Express.js), MongoDB, Vue.js
 </br>
 
-#### Details
-- ( Incomplete )
-</br>
-
-- Workflow
+## ขั้นตอนการ Run project
+- Run command (Front-end) :
     ```
-     1. 
+    $ cd vuejs-nodejs-crud-teach >> npm install >> npm run dev
     ```
-</br>
-
-## Run project
-- Run command :
+- Run command (Back-end) :
     ```
-    $ npm install
-    ```
-    ```
-    $ npm run dev
+    $ cd backend >> npm install >> npm run server
     ```
 
-</br>
 
-### Structure :
