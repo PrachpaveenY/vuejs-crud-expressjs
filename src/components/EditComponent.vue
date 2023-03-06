@@ -1,7 +1,6 @@
 <template lang="">
     <div class="row justify-content-center">
         <div class="col-md-6">
-            <!-- update -->
             <h1>Edit Data</h1>
             <form @submit.prevent="handleUpdateForm">
                 <div class="form-group">

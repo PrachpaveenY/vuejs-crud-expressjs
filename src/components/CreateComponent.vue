@@ -2,7 +2,6 @@
     <div class="row justify-content-center">
         <div class="col-md-6">
             <h1>Create Student</h1>
-            <!-- .prevent = ไม่ให้มันรีเฟสหน้าเพจ -->
             <form @submit.prevent="handleSubmitForm">
                 <div class="form-group">
                     <label for="name">Name</label>
@@ -38,13 +37,10 @@ export default {
         }
     },
     methods: {  
-        // จัดการ submit form
-        // เก็บ url
         handleSubmitForm() {
             let apiURL = 'http://localhost:4000/api/create-student';
 
             axios.post(apiURL, this.student).then(() => {
-                // ถ้าเพิ่มข้อมูลสำเร็จก็ให้มาที่หน้า view
                 this.$router.push('/view');
                 this.student = {
                     name: '',

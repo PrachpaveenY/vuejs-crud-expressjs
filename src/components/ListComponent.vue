@@ -1,7 +1,6 @@
 <template lang="">
     <div class="row justify-content-center">
         <div class="col-md-12">
-            <!-- list -->
             <h1>Show Students</h1>
             <div class="row">
                 <div class="col-md-12">
