@@ -1,6 +1,7 @@
 # vuejs-nodejs-crud-teach
-- View my project website = https://prachpaveeny.github.io/vuejs-crud-expressjs/
+- View my project website = null
 - Project : Vue.js-CRUD-Express.js
+- Can create data, modify data, delete data by connecting to MongoDB
 - Tools = Node.js(Express.js), MongoDB, Vue.js
 </br>
 
