@@ -11,7 +11,7 @@
     ```
 - Run command (Back-end) :
     ```
-    $ cd backend >> npm install >> npm run server
+    $ cd backend >> npm install >> npm run dev
     ```
 
 
