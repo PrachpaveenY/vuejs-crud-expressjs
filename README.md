@@ -18,5 +18,5 @@
 
  </br></br>
 
-<img src="./img/crud-vue01.png" width="600"/>
+<img src="./img/crud-vue01.png" width="900" hight="400"/>
 
