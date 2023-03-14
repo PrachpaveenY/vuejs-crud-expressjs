@@ -18,4 +18,5 @@
 
  </br></br>
 
-<img src="./img/crud-vue01.png" width="300" style="text-align: center;"/>
+<img src="./img/crud-vue01.png" width="300"/>
+
