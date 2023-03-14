@@ -1,5 +1,5 @@
-# vuejs-nodejs-crud-teach
-- View my project website = null
+# vuejs-crud-expressjs
+- View my project website = https://prachpaveeny.github.io/vuejs-crud-expressjs/
 - Project : Vue.js-CRUD-Express.js
 - Can create data, modify data, delete data by connecting to MongoDB
 - Tools = Node.js(Express.js), MongoDB, Vue.js
@@ -8,7 +8,7 @@
 ## ขั้นตอนการ Run project
 - Run command (Front-end) :
     ```
-    $ cd vuejs-nodejs-crud-teach >> npm install >> npm run dev
+    $ cd vuejs-crud-expressjs >> npm install >> npm run dev
     ```
 - Run command (Back-end) :
     ```
@@ -16,3 +16,6 @@
     ```
 
 
+ </br></br>
+
+<img src="./img/crud-vue01.png" width="300" text-align="center"/>

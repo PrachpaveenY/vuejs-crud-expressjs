@@ -24,6 +24,7 @@
 </template>
 <script>
 import axios from 'axios';
+
 export default {
     data() {
         return {
@@ -39,7 +40,6 @@ export default {
     methods: {
         handleUpdateForm() {
             let apiURL = `http://localhost:4000/api/edit-student/${this.$route.params.id}`;
-
             axios.put(apiURL, this.student).then((res) => {
                 console.log(res);
                 this.$router.push('/view')
